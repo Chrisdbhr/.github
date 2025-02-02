@@ -1,2 +1,2 @@
 # .github
-Global Github configs
+My Global Github configs
